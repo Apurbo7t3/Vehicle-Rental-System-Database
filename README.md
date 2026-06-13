@@ -101,7 +101,7 @@ INSERT INTO bookings (user_id, vehicle_id, start_date, end_date, status, total_c
 
 **6. Run Queries**
 For running queries on the created tables and checking the results here are some intuitive complex queries are given in the link. Copy this queries and run one by one and see the result.
-[for queries click here!]()
+[for queries click here!](https://github.com/Apurbo7t3/Vehicle-Rental-System-Database/blob/main/queries.sql)
 
 ## 📄 License
 
